@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # XianFire Activity 2 — Books CRUD API
 
 This project builds on the XianFire project structure used in the previous subject activity and adds the Books API required by Activity 2.
@@ -38,3 +39,7 @@ Take your own screenshots of the successful requests and responses in Postman fo
 ## GitHub submission
 
 Commit the project files and the Postman collection. Do not commit `node_modules`, local credentials, or `.env` files. Include genuine Postman screenshots in a folder such as `screenshots/` once you have tested the endpoints.
+=======
+# XianFire-Activity-2-Gelelio
+XianFire Framework Activity 2 - Edit, Delete, and Postman API Testing
+>>>>>>> dce814972d04421d567d119c19263e5214306d9f
